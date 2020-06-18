@@ -1,4 +1,4 @@
-# An Image Management Utility. This utility begins by presenting a login screen that looks like this
+# An Image Management Utility. This utility begins by presenting a login screen.
 # SONAR and JENKINS Integrated
 
 ___
